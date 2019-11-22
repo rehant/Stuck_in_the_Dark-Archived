@@ -1,3 +1,7 @@
+*** Original repo that was was developed by Ethan Chan, Simon Ma, and Rehan Theiveehathasan is found at: https://github.com/sma7560/Stuck_In_The_Dark ***
+
+** This repo purely exists as a backup of the work done in the above mentionned repo **
+
 # Stuck in the Dark
 
 A short Unity horror game made by Ethan Chan, Simon Ma, and Rehan Theiveehathasan. 
